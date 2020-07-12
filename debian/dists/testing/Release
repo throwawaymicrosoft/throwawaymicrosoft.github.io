@@ -1,0 +1,19 @@
+Origin: throwawaymicrosoft.github.io
+Label: throwawaymicrosoft.github.io
+Codename: testing
+Date: Sun, 12 Jul 2020 10:50:49 UTC
+Architectures: amd64
+Components: main
+Description: throwawaymicrosoft.github.io
+MD5Sum:
+ 4da3b83da1cd128eecb404927b6d8008 471 main/binary-amd64/Packages
+ 1268d7dd8459907bf4ca0862ba801a7a 349 main/binary-amd64/Packages.gz
+ 07800a8aa4d4f74c66305a3fbaa29ca7 151 main/binary-amd64/Release
+SHA1:
+ 9e2f5467f645c36650039e254f2f287a587fc198 471 main/binary-amd64/Packages
+ 6155abcb6afc32a1cda3d8e82690a88572be076c 349 main/binary-amd64/Packages.gz
+ ec48f8ac9764310bc29ee82912c7625d44be3e4a 151 main/binary-amd64/Release
+SHA256:
+ 084e2e7d2bba3e8b1e71cbf6d92b578a330857f819bcd188e98df7060c1cea2d 471 main/binary-amd64/Packages
+ 8d5a4ca62e9653cddc82cc0e89e25282ce24ab8a0eb8bf1d27a97ad887bcf3e3 349 main/binary-amd64/Packages.gz
+ d5b3220fe848f3d9c3a208386c3486eadc36123cb1e6aaea4048c1b121f3c3ec 151 main/binary-amd64/Release

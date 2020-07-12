@@ -1,0 +1,7 @@
+Origin: throwawaymicrosoft.github.io
+Label: throwawaymicrosoft.github.io
+Codename: testing
+Architectures: amd64
+Components: main
+Description: throwawaymicrosoft.github.io
+SignWith: yes

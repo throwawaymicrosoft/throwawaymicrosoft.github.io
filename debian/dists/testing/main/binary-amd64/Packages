@@ -1,0 +1,16 @@
+Package: ipecho
+Installed-Size: 36
+Maintainer: admin@localhost
+Architecture: amd64
+Version: 20200712-1
+Depends: gnustep-base-runtime
+Provides: ipecho
+Priority: extra
+Section: checkinstall
+Filename: pool/main/i/ipecho/ipecho_20200712-1_amd64.deb
+Size: 2976
+SHA256: 89afb720b70ddf1389581c9a35b3c47ae7c99a19a735978e3c763858043c054e
+SHA1: 2bd19d835a07e78f9d085f6301e34045013a0b75
+MD5sum: cce3f56869cca1a7d2db79fd959f0be3
+Description: Package created with checkinstall 1.6.3
+
