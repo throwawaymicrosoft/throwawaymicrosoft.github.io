@@ -1,1 +1,1 @@
-Windows: https://throwawaymicrosoft.github.io/windows/index.html
+[Windows](https://throwawaymicrosoft.github.io/windows/index.html)
